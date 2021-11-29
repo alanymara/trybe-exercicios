@@ -4,7 +4,7 @@
 
 <h2>:brazil: Português</h2>
 
-Repositório contém todas as atividades de aprendizagem realizadas por _[Alany Mara Silva Fernandes](https://www.linkedin.com/in/alanyfernandes/)_ no decorrer do curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem realizadas por _[Alany Mara Silva Fernandes](https://www.linkedin.com/in/alanyfernandes/)_ no decorrer do curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/) :rocket:
 
 Turma XP | Outubro de 2021.
 
@@ -98,7 +98,7 @@ _Trybe is a technology school that has a genuine commitment to the professional 
 - [x] 03.02 — _HTML & CSS - First steps with CSS_
 - [x] 03.03 — _HTML & CSS - Selectors and positioning_
 - [x] 03.04 — _Semantic HTML_
-- [ ] 03.05 — _Project - Lessons Learned_
+- [x] 03.05 — _Project - Lessons Learned_
 
 #### Unit 04: Introduction to JavaScript
 
