@@ -79,7 +79,7 @@ Class XP | October 2021.
 
 _Trybe is a technology school that has a genuine commitment to the professional success of its students. There are over 1,500 hours of training that cover web development fundamentals, development, Front-end, Back-end, computer science, agile methodologies and behavioral skills._
 
-## Principles of Web Development :hourglass_flowing_sand:
+## Principles of Web Development :white_check_mark:
 
 #### Unit 01: Unix & Bash
 
@@ -124,7 +124,7 @@ _Trybe is a technology school that has a genuine commitment to the professional 
 
 - [X] 6-1: _HTML & CSS - Forms_
 - [X] 6-2: _ScriptScript Libraries and CSS Frameworks_
-- 6-3: _CSS Flexbox - Part 1_
+- [ ] 6-3: _CSS Flexbox - Part 1_
 - [ ] 6-4: _CSS Flexbox - Part 2_
 - [ ] 6-5: _Responsive CSS - Mobile First_
 - [ ] 6-6: _Project - Facebook homepage_
