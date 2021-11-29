@@ -4,7 +4,7 @@
 
 <h2>:brazil: Português</h2>
 
-Este repositório contém todas as atividades de aprendizagem realizadas por _[Alany Mara Silva Fernandes](https://www.linkedin.com/in/alanyfernandes/)_ no decorrer do curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/) :rocket:
+Repositório contém todas as atividades de aprendizagem realizadas por _[Alany Mara Silva Fernandes](https://www.linkedin.com/in/alanyfernandes/)_ no decorrer do curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/) :rocket:
 
 Turma XP | Outubro de 2021.
 
