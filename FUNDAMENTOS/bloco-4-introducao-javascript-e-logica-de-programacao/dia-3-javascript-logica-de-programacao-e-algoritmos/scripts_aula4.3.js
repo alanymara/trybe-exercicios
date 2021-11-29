@@ -19,22 +19,6 @@ if (acesso === true) {
 }
 */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // EXEMPLO FOR DENTRO DE FOR
 let qtd = 10;
 let ingredientes = ["queijo","presunto","maionese"];
@@ -51,31 +35,6 @@ for (let index = 0; index < 10; index += 1){
     sacola.push(pao);
 }
 console.log("sacola: ", sacola);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*
 // MUNIÇÃO PARA DINÂMICA
