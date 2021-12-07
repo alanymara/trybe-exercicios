@@ -80,13 +80,13 @@ body {
     }
   }
 
-  @media screen and (min-width: 650px) and (max-width: 950px){
+  @media screen and ( min-width : 650px ) and (max-width: 950px){
     .card:nth-of-type(3) {
       display: none;
     }
   }
 
-  @media screen and (max-width: 500px){
+  @media screen and ( max-width : 500px ){
     p.trick {
       display: flex;
       color: black;
