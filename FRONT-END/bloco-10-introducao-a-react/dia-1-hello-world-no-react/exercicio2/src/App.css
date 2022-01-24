@@ -1,0 +1,48 @@
+   * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    .title {
+      width: 100%;
+      background: rgb(192, 192, 192);
+      height: 100px;
+      text-align: center;
+      line-height: 100px;
+    }
+
+    .footer {
+      background: rgb(51, 51, 51);
+      color: white;
+      width: 100%;
+      height: 100px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: absolute;
+      bottom: 0;
+    }
+
+    .content {
+      display: flex;
+      width: 100%;
+      justify-content: center;
+      align-items: center;
+      height: 80vh;
+      gap: 15px;
+    }
+
+    .card {
+      color: white;
+      background: #850505;
+      border-radius: 8px;
+      gap: 12px;
+      padding: 2%;
+      width: 20%;
+      height: 300px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      } 
