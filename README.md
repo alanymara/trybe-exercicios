@@ -124,16 +124,16 @@ _Trybe is a technology school that has a genuine commitment to the professional 
 
 - [X] 6-1: _HTML & CSS - Forms_
 - [X] 6-2: _ScriptScript Libraries and CSS Frameworks_
-- [ ] 6-3: _CSS Flexbox - Part 1_
-- [ ] 6-4: _CSS Flexbox - Part 2_
-- [ ] 6-5: _Responsive CSS - Mobile First_
-- [ ] 6-6: _Project - Facebook homepage_
+- [X] 6-3: _CSS Flexbox - Part 1_
+- [X] 6-4: _CSS Flexbox - Part 2_
+- [X] 6-5: _Responsive CSS - Mobile First_
+- [X] 6-6: _Project - Facebook homepage_
 
 ##### Unit 07: JavaScript ES6 & Unit Tests
 
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
-- [ ] 7-2: _JavaScript ES6 - Objects_
-- [ ] 7-3: _JavaScript unit tests_
-- [ ] 7-4: _Project - JavaScript Unit Tests_
+- [X] 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
+- [X] 7-2: _JavaScript ES6 - Objects_
+- [X] 7-3: _JavaScript unit tests_
+- [X] 7-4: _Project - JavaScript Unit Tests_
 
 # [...]
